@@ -10,7 +10,7 @@ to install this you need the things below
 -------install-------
 install vs code https://code.visualstudio.com/
 
-
+go to cmd and type: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 
 once installed click on terminal
@@ -20,13 +20,8 @@ once installed click on terminal
 
 
 
-
 then new terminal
 
-
-
 command: python get-pip.py
-
-
 
 once its done you need to combine all the files and drag them to the usb drive
