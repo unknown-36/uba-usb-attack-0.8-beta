@@ -7,6 +7,4 @@ to install this you need the things below
 
 2. python 3.10 https://www.python.org/downloads/release/python-3100/
 
-3. pip https://bootstrap.pypa.io/get-pip.py
-
-and you should be good to go
+once its done you need to combine all the files and drag them to the usb drive
