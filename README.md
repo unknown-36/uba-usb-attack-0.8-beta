@@ -24,7 +24,8 @@ once installed click on terminal
 then new terminal
 
 
-python get-pip.py
+
+command: python get-pip.py
 
 
 
