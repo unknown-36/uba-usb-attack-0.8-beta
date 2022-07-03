@@ -12,7 +12,19 @@ install vs code https://code.visualstudio.com/
 
 
 
+
+once installed click on terminal
+
+
 ![Capture](https://user-images.githubusercontent.com/108584675/177037426-6706a696-bb2c-4f0a-a4ee-5b97a3562677.PNG)
+
+
+
+
+then new terminal
+
+
+# python get-pip.py
 
 
 
