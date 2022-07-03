@@ -10,7 +10,7 @@ to install this you need the things below
 -------install-------
 install vs code https://code.visualstudio.com/
 
-go to cmd and type: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+go to cmd and type: $curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 
 once installed click on terminal
